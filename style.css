@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p, li, h1, h2{
+    color: rgb(000, 000, 000);
+    text-shadow: 2px 2px 5px white;
+}
+
+body{
+    background: #1D2B64;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #F8CDDA, #1D2B64);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F8CDDA, #1D2B64); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+    height: 100vh;
+}
+
+
+.header{
+   margin: 35px 0 0 20px; 
+   font-size: 24px;
+}
+
+img{
+    width: 95px;
+    height: 75px;
+    float: right;
+    margin: -50px 25px 0 0;
+}
+
+hr{
+    margin: 30px 0 0 20px;
+    width: 95%;
+}
+
+.mainContent{
+    margin: 20px 0 0 20px;
+}
+
+h2{
+    margin-top: 25px;
+}
+
+.HTMLBulletPoint{
+    margin: 20px 0 0 50px;
+}
+
+.OrderList1{
+    margin-left: 100px;
+}
+
+.CSSBulletPoint{
+    margin-left: 50px;
+}
+
+.CSSList{
+    margin-left: 95px;
+}
+
+.OrderList2 {
+    margin: 0 0 15px 45px;
+}
+
+.links{
+    margin: 0 0 0 25px;
+    line-height: 20px;
+}
